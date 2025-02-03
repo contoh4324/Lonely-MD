@@ -1,6 +1,6 @@
-# 🤖 Knight Bot
+# 🤖 lonely-botz
 
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+Ini adalah bot WhatsApp yang dibuat menggunakan pustaka Baileys untuk manajemen grup, termasuk fitur-fitur seperti menandai semua anggota, menonaktifkan/mengaktifkan suara, dan masih banyak lagi. Bot ini dirancang untuk membantu admin mengelola grup WhatsApp secara efisien
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
@@ -156,9 +156,7 @@ For further customization and setup guidance, click the button below:
 
 ## 📖 About
 
-The Knight WhatsApp Bot assists group admins by providing them with tools to efficiently manage large WhatsApp groups. The bot uses the Baileys library to interact with the WhatsApp Web API and supports multi-device features.
-
-It is lightweight and can be easily customized to add more commands as per your requirements. The bot runs in a Node.js environment and provides QR code-based authentication to link your WhatsApp account.
+lonely-botz admin WhatsApp dengan menyediakan alat untuk mengelola grup WhatsApp yang besar secara efisien. Bot ini menggunakan pustaka Baileys untuk berinteraksi dengan WhatsApp Web API dan mendukung fitur multiperangkat. Bot ini ringan dan dapat dengan mudah disesuaikan untuk menambahkan lebih banyak perintah sesuai kebutuhan Anda. Bot ini berjalan di lingkungan Node.js dan menyediakan autentikasi berbasis kode QR untuk menautkan akun WhatsApp Anda.
 
 ---
 
@@ -225,27 +223,24 @@ If you like this project, please give it a [⭐️ star on GitHub](https://githu
 
 ## ⚠️ Important Warning
 
-**Note:** This bot is created for educational purposes only. This is NOT an official WhatsApp bot. Using this bot may lead to your WhatsApp account being banned. Use it at your own risk. The developers will not be responsible for any consequences or account bans that may occur while using this bot.
+**Note:** Bot ini dibuat hanya untuk tujuan edukasi. Ini BUKAN bot WhatsApp resmi. Penggunaan bot ini dapat menyebabkan akun WhatsApp Anda diblokir. Gunakan bot ini dengan risiko Anda sendiri. Pengembang tidak akan bertanggung jawab atas segala konsekuensi atau pemblokiran akun yang mungkin terjadi saat menggunakan bot ini.
 
 ## 📝 Legal
 
-- This project is not affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries.
-- This is an independent and unofficial software. Use at your own risk.
-- Do not spam people with this bot.
-- Do not use this bot to send bulk messages or for illegal purposes.
-- The developers assume no liability and are not responsible for any misuse or damage caused by this program.
+- Proyek ini tidak berafiliasi dengan, diotorisasi, dikelola, disponsori, atau didukung oleh WhatsApp atau afiliasi atau anak perusahaannya.
+- Ini adalah perangkat lunak yang independen dan tidak resmi. Gunakan dengan risiko Anda sendiri.
+- Jangan melakukan spam kepada orang lain dengan bot ini.
+- Jangan gunakan bot ini untuk mengirim pesan massal atau untuk tujuan ilegal.
+- Pengembang tidak bertanggung jawab atas penyalahgunaan atau kerusakan yang disebabkan oleh program ini.
 
 ### License
-This project is licensed under the MIT License. However, you must:
-- Use this software in compliance with all applicable laws and regulations
-- Include original license and copyright notices
-- Credit original authors
-- Not use for spam or malicious purposes
+This project is licensed Proyek ini dilisensikan berdasarkan Lisensi MIT. Namun, Anda harus: 
+-Menggunakan perangkat lunak ini sesuai dengan semua hukum dan peraturan yang berlaku 
+-Menyertakan lisensi asli dan pemberitahuan hak cipta - Memberikan penghargaan kepada penulis asli 
+-Tidak menggunakannya untuk tujuan spam atau jahat
 
 ## 📜 Copyright Notice
 
 Copyright (c) 2024 Professor. All rights reserved.
 
-This project contains code from various open source projects:
-- Baileys (MIT License)
-- Other libraries as listed in package.json
+Proyek ini berisi kode dari berbagai proyek sumber terbuka: - Baileys (Lisensi MIT) - Pustaka lain sebagaimana tercantum dalam package.json
