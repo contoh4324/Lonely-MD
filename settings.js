@@ -1,12 +1,12 @@
 const settings = {
-  packname: 'Knight',
+  packname: 'lonely-punya-nana><',
   author: 'Bot',
-  botName: "Knight Bot",
-  botOwner: 'Professor', // Your name
-  ownerNumber: '917023951514', //Your number
+  botName: "lonely-botz",
+  botOwner: 'lonely ganteng🗿', // Your name
+  ownerNumber: '6285876648286', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
-  description: "This is a bot for managing group commands and automating tasks.",
+  description: "Ini adalah bot untuk mengelola perintah grup dan mengotomatiskan tugas.",
   version: "1.0.0",
 };
 
